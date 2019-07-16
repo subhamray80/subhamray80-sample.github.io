@@ -1,0 +1,252 @@
+.header{
+  background-image: url("https://notebookspec.com/static/thumb/350000/397531_1200x628.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 12em;
+  margin: auto;
+}
+#steam_logo{
+  position: relative;
+  width: 260px;
+  height: 60px;
+  bottom: 180px;
+  right: 13em;
+}
+#links{
+  position: relative;
+  left: 26em;
+  padding: 8px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  bottom: 140px;
+}
+#links:hover{
+  background-color: #336;
+}
+h1{
+  text-align: center;
+  font-size: 34px;
+  color: #3BD9CF;
+  position: relative;
+  bottom: 60px;
+  text-shadow: 4px 4px 4px grey;
+}
+#heading_1{
+  text-align: center;
+  font-size: 18px;
+  color: #3BD9CF;
+  position: relative;
+  bottom: 40px;
+}
+#heading_2{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  position: relative;
+  top: 90px;
+  margin: auto;
+  width: 400px;
+}
+#links_2{
+  position: relative;
+  top: 140px;
+  left: 320px;
+  padding: 16px;
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+}
+#links_2:hover{
+  background-color: #336;
+}
+#learn-more{
+  text-decoration: none;
+}
+#learn{
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 190px;
+}
+#down{
+  height: 30px;
+  width: 40px;
+  position: relative;
+  top: 190px;
+  left: 462px;
+}
+#regular_updates{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 5px 5px 10px #333;
+
+}
+.updates{
+  background-color: #336;
+  padding: 5em;
+  box-shadow: 5px 5px 8px grey;
+}
+.updates p,a{
+  text-align: center;
+  color: white
+}
+.updates p{
+  position: relative;
+  top: 14px;
+}
+.updates{
+  background: #121249;
+  background: -webkit-linear-gradient(left top, #121249, #8787CD);
+  background: -o-linear-gradient(bottom right, #121249, #8787CD);
+  background: -moz-linear-gradient(bottom right, #121249, #8787CD);
+  background: linear-gradient(to bottom right, #121249, #8787CD);
+}
+.part_3{
+  background-image: url("");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+  padding: 4em;
+}
+#headings{
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 5px 5px 8px grey;
+}
+#desc{
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+}
+#headings_1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+#headings_desc{
+  text-align: center;
+  color: grey;
+  font-size: 14px;
+}
+#creator_pic{
+  height: 250px;
+  width: 250px;
+  overflow: hidden;
+}
+.part_4{
+
+  padding: 4em;
+  margin: auto;
+  color: grey;
+
+}
+#ui{
+  height: 460px;
+  width: 680px;
+  position: relative;
+  box-shadow: 5px 5px 8px #333;
+}
+#ui_2{
+  height: 460px;
+  width: 680px;
+  position: relative;
+  left: 8em;
+  box-shadow: 5px 5px 8px #333;
+
+}
+#ui_desc{
+  font-size: 24px;
+  position: relative;
+  color: #331;
+  text-shadow: 5px 5px 8px grey;
+}
+#ui_desc_2{
+  color: grey;
+}
+#supporters{
+  font-size: 26px;
+}
+#ui_heading{
+  position: relative;
+  font-size: 22px;
+  color: #331;
+  text-shadow: 2px 2px 8px grey;
+  float: right;
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 5px 5px 10px grey;
+  color: white;
+}
+#for_developers{
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+}
+.footer{
+  background-color: #1D2135;
+  padding: 3em;
+  margin: auto;
+}
+.footer p{
+  color: white;
+
+}
+.footer a{
+  text-align: center;
+  text-decoration: none;
+  color: blue;
+  position: relative;
+}
+.footer a:hover{
+  color: white;
+}
+#source{
+  text-align: center;
+}
+#news{
+  font-size: 18px;
+}
+#os_review{
+  position: relative;
+  top: 40px;
+  float: right;
+
+}
+.footer_links{
+  position: relative;
+  top: 140px;
+  float: right;
+}
+#footer_heading{
+  position: relative;
+  top: 140px;
+  left: 450px;
+}
+#learn_more{
+  color: white;
+  background-color: #F6A548;
+  padding: 16px;
+  text-decoration: none;
+}
+#learn_more_2{
+  color: white;
+  background-color: #F6A548;
+  padding: 16px;
+  text-decoration: none;
+}
+#learn_more:hover,#learn_more_2:hover{
+  background-color: #F66B48;
+  color: #336;
+}
+.company{
+  position: relative;
+  top: 40px;
+}
